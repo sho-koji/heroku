@@ -14,9 +14,10 @@ body {
 .headline > span {
   font-size: 0.7em;
   border: solid 1px #f00;
-  border-radius: 2px;
+  border-radius: 3px;
   color: #fff;
   background-color: #f00;
+  padding: 0 2px;
 }
 
 .headline .topleft {

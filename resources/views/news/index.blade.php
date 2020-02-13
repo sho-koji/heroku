@@ -6,6 +6,8 @@
         @if (!is_null($headline))
             <div class="row">
                 <div class="headline col-md-10 mx-auto">
+                    <h1>Tech Boost ニュース</h1>
+                    <p>View変更後のテストステートメント(added on 14Feb2020)</p>
                     <div class="row">
                         <div class="col-md-6">
                             <div class="caption mx-auto">
