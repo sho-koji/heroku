@@ -24,7 +24,7 @@
         <link href="{{ secure_asset('css/front.css') }}" rel="stylesheet">
     </head>
     
-    <body>
+    <body class="blue">
         <div id="app">
             <!-- 画面上部に表示するナビゲーションバーです。 -->
             <nav class="navbar navbar-expand-md navbar-dark navbar-laravel">
